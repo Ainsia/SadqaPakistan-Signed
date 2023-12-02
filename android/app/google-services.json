@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "168204055535",
+    "project_id": "sadqapakistan",
+    "storage_bucket": "sadqapakistan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168204055535:android:753936f5f60dfd56f7bc1a",
+        "android_client_info": {
+          "package_name": "com.sadqapak.pakistani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168204055535-5ecouennjuld2hdmgpuucf5ekeovgsga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadqapak.pakistani",
+            "certificate_hash": "be9e58cace8cb8a447c2d7ad6cb5c42d8a176807"
+          }
+        },
+        {
+          "client_id": "168204055535-hmeq2bu2a9dn1btf4dsm5ardcqjdpb1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoQb_kS-SwrPQ2do8aZRUB3GNqSrq3ja8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168204055535-hmeq2bu2a9dn1btf4dsm5ardcqjdpb1i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168204055535-mh8beoc45htebc2ljpsp40ru4tvj3s85.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sadqa.pak.sadqapak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

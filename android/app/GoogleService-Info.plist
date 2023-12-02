@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>168204055535-mh8beoc45htebc2ljpsp40ru4tvj3s85.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.168204055535-mh8beoc45htebc2ljpsp40ru4tvj3s85</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>168204055535-5ecouennjuld2hdmgpuucf5ekeovgsga.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAiJ2T534M2lv1Vz4Cf3z2gDQCwuwPVPIM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>168204055535</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sadqa.pak.sadqapak</string>
+	<key>PROJECT_ID</key>
+	<string>sadqapakistan</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sadqapakistan.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:168204055535:ios:e4b352e089f37e4ff7bc1a</string>
+</dict>
+</plist>
